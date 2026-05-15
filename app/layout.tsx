@@ -13,6 +13,7 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
+
 export const metadata: Metadata = {
   title: "MenuQR - Digital Menu Management System",
   description: "Create, manage, and share digital menus with QR codes",
